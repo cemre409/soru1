@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="odev/odev.vcxproj" Id="71d43ff6-799e-4e57-bd3d-8f867a0c8e62" />
-</Solution>
